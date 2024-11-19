@@ -1,5 +1,0 @@
-var DigiteTemperaturaGrausFarenheit = parseFloat(prompt("Temperatura Graus Farenheit"))
-var C = parseFloat(prompt("C"))
-var DigiteF = parseFloat(prompt("F"))
-var Total = C = (5 * (DigiteF-32) / 9)
-console.log ("A Temperatura em Graus Celsius é:", Total)
