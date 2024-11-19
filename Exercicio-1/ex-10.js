@@ -1,0 +1,5 @@
+var DigiteTemperaturaGrausCelsius = parseFloat(prompt("Temperatura Graus Celsius"))
+var F = parseFloat(prompt("C"))
+var DigiteC = parseFloat(prompt("F"))
+var Total = F = (5 * (DigiteC-32) / 9)
+console.log ("A Temperatura em Graus Farenheit é:", Total)
